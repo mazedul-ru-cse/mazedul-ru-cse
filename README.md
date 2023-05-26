@@ -30,6 +30,6 @@ I've been working with programming & mobile app technology since 2018, and durin
 
 # Let's connect! Find me on...
 
-<a href="https://www.linked.com/in/mazedul70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/linkedin.png" width="30" height="30"/> </kbd></a>
+<a href="https://linkedin.com/in/mazedul70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/linkedin.png" width="30" height="30"/> </kbd></a>
 <a href="https://facebook.com/mamazedulislam70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/facebook.png" width="30" height="30"/> </kbd></a>
 
