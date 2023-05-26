@@ -19,3 +19,12 @@ I've been working with programming & mobile app technology since 2018, and durin
 - Firebase    <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/firebase.png" width="20" height="20"/> </kbd>
 - SQLite      <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/sql.jpg" width="20" height="20"/> </kbd>
 - MySQL       <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/MySQL.png" width="20" height="20"/> </kbd>
+
+
+# IDE Development Kits
+- Android Studio
+- Visual Studio
+- Intellij IDEA
+- Eclipse  
+- Netbeans
+
