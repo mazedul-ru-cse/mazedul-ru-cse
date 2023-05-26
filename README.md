@@ -21,7 +21,7 @@ I've been working with programming & mobile app technology since 2018, and durin
 - MySQL       <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/MySQL.png" width="20" height="20"/> </kbd>
 
 
-# IDE Development Kits
+# IDE (Integrated Development Environment)
 - Android Studio
 - Visual Studio
 - Intellij IDEA
