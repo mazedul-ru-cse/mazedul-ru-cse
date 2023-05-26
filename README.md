@@ -7,15 +7,15 @@ I've been working with programming & mobile app technology since 2018, and durin
 
 
 # Development & Tech Tools
-- Flutter     <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/flutter.png" width="20" height="20"/> </kbd>
-- Kotlin      <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/kotlin.png" width="20" height="20"/> </kbd>
-- Dart        <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/dart.png" width="20" height="20"/> </kbd>
-- Java        <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/java.png" width="20" height="20"/> </kbd>
-- PHP         <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/php.png" width="20" height="20"/> </kbd>
-- Laravel     <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/laravel.png" width="20" height="20"/> </kbd>
-- .NET        <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/net.png" width="20" height="20"/> </kbd>
-- OneSignal   <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/OneSignal.png" width="20" height="20"/> </kbd>
-- Rest APIs   <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/rest%20api.png" width="20" height="20"/> </kbd>
-- Firebase    <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/firebase.png" width="20" height="20"/> </kbd>
-- SQLite      <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/sql.jpg" width="20" height="20"/> </kbd>
-- MySQL       <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/MySQL.png" width="20" height="20"/> </kbd>
+- Flutter     <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/flutter.png" width="20" height="20"/> </kbd>
+- Kotlin      <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/kotlin.png" width="20" height="20"/> </kbd>
+- Dart        <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/dart.png" width="20" height="20"/> </kbd>
+- Java        <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/java.png" width="20" height="20"/> </kbd>
+- PHP         <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/php.png" width="20" height="20"/> </kbd>
+- Laravel     <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/laravel.png" width="20" height="20"/> </kbd>
+- .NET        <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/net.png" width="20" height="20"/> </kbd>
+- OneSignal   <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/OneSignal.png" width="20" height="20"/> </kbd>
+- Rest APIs   <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/rest%20api.png" width="20" height="20"/> </kbd>
+- Firebase    <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/firebase.png" width="20" height="20"/> </kbd>
+- SQLite      <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/sql.jpg" width="20" height="20"/> </kbd>
+- MySQL       <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/MySQL.png" width="20" height="20"/> </kbd>
