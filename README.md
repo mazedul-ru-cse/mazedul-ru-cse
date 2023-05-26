@@ -7,4 +7,4 @@ I've been working with programming & mobile app technology since 2018, and durin
 
 
 # Development & Tech Tools
-- Flutter <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" width="40" hight="40"></img>
+- <img src="https://cdn.iconscout.com/icon/free/png-256/free-flutter-2038877-1720090.png" width="40" hight="40">Flutter</img>
