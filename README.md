@@ -34,4 +34,5 @@ I've been working with programming & mobile app technology since 2018, and durin
 <a href="https://facebook.com/mamazedulislam70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/facebook.png" width="30" height="30"/> </kbd></a>
 <a href="https://www.upwork.com/freelancers/~01ca628cf24bd307c8"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/upwork.png" width="30" height="30"/> </kbd></a>
 <a href="https://instagram.com/mazed.70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/instagram.png" width="30" height="30"/> </kbd></a>
+<a href="mailto:mazedulislam4970@gmail.com"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/gmail.png" width="30" height="30"/> </kbd></a>
 
