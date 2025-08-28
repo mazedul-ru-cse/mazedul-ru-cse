@@ -93,11 +93,9 @@ I have **4+ years of professional experience** building scalable and user-friend
 ---
 
 ## 🛠️ IDE (Integrated Development Environment)
-- Android Studio  
-- Visual Studio Code  
-- IntelliJ IDEA  
-- Eclipse  
-- NetBeans  
+- **Android Studio**
+- **Xcode**
+- **Visual Studio Code**   
 
 ---
 
