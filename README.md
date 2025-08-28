@@ -22,53 +22,87 @@ I have **4+ years of professional experience** building scalable and user-friend
 
 ## 📱 Developed & Published Apps (at SpondonIT)
 
-### Online Accounting – AoraBooks  
- **AoraBooks** : AoraBooks – Smart Accounting, Distribution & Business Management.  
-- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aorabooks.com)  
-- [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📘 Online Accounting – AoraBooks</h3>
+      <p>Smart Accounting, Distribution & Business Management.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.aorabooks.com">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+      </a><br>
+      <a href="https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎓 InfixLMS – Instructor</h3>
+      <p>Manage courses, students, and lessons on the go.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.infixlms.lmsinstructor">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 AmazCart – E-commerce</h3>
+      <p>A modern, scalable, and user-friendly e-commerce solution.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.amazcart.store">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+      </a><br>
+      <a href="https://apps.apple.com/app/amazcart/id6739343698">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏫 InfixEdu – School App</h3>
+      <p>Digital school management at your fingertips.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.infixedu.school">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+      </a><br>
+      <a href="https://apps.apple.com/app/infixedu-app/id6739495077">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>📚 InfixLMS – Student</h3>
+      <p>Learn anytime, anywhere with easy access to courses.</p>
+      <a href="https://play.google.com/store/apps/details?id=com.infixlmsuser.app">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <!-- Empty for future apps -->
+    </td>
+  </tr>
+</table>
 
-### InfixLMS Admin  
- **InfixLMS Admin** : Manage courses, students, and lessons on the go.  
-- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infixlms.lmsinstructor)
+---
 
-### AmazCart – E-commerce Store  
-**AmazCart** : A modern, scalable, and user-friendly e-commerce solution.  
-- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.amazcart.store)  
-- [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/amazcart/id6739343698)
+## 💻 Development & Tech Tools
+- ![Flutter](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/flutter.png) **Flutter**  
+- ![Dart](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/dart.png) **Dart**  
+- ![REST API](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/rest%20api.png) **REST APIs**  
+- ![Firebase](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/firebase.png) **Firebase**  
+- ![Kotlin](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/kotlin.png) **Kotlin**  
+- ![Java](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/java.png) **Java**  
+- ![SQLite](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/sql.jpg) **SQLite**
 
-### InfixEdu – School App  
-**InfixEdu** : Digital school management at your fingertips.  
-- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infixedu.school)  
-- [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/infixedu-app/id6739495077)
+---
 
-### InfixLMS – Student   
-**InfixLMS Student** : Learn anytime, anywhere with easy access to courses.  
-- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infixlmsuser.app)
-
-
-
-
-# Development & Tech Tools
-- Flutter     <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/flutter.png" width="20" height="20"/> </kbd>
-- Dart        <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/dart.png" width="20" height="20"/> </kbd>
-- Rest APIs   <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/rest%20api.png" width="20" height="20"/> </kbd>
-- Firebase    <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/firebase.png" width="20" height="20"/> </kbd>
-- Kotlin      <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/kotlin.png" width="20" height="20"/> </kbd>
-- Java        <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/java.png" width="20" height="20"/> </kbd>
-- SQLite      <kbd>   <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/sql.jpg" width="20" height="20"/> </kbd>
-
-
-# IDE (Integrated Development Environment)
-- Android Studio
-- Visual Studio
-- Intellij IDEA
+## 🛠️ IDE (Integrated Development Environment)
+- Android Studio  
+- Visual Studio Code  
+- IntelliJ IDEA  
 - Eclipse  
-- Netbeans
+- NetBeans  
 
-# Let's connect! Find me on...
+---
 
-<a href="https://linkedin.com/in/mazedul70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/linkedin.png" width="40" height="40"/> </kbd></a>
-<a href="https://facebook.com/mamazedulislam70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/facebook.png" width="40" height="40"/> </kbd></a>
-<a href="https://www.upwork.com/freelancers/~01ca628cf24bd307c8"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/upwork.png" width="40" height="40"/> </kbd></a>
-<a href="https://www.instagram.com/mazed.70/"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/instagram.png" width="40" height="40"/> </kbd></a>
-<a href="mailto:mazedulislam4970@gmail.com"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/gmail.png" width="40" height="40"/> </kbd></a>
+## 🌐 Let's Connect!
+<a href="https://linkedin.com/in/mazedul70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/linkedin.png" width="40" height="40"/></a>
+<a href="https://facebook.com/mamazedulislam70"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/facebook.png" width="40" height="40"/></a>
+<a href="https://www.upwork.com/freelancers/~01ca628cf24bd307c8"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/upwork.png" width="40" height="40"/></a>
+<a href="https://www.instagram.com/mazed.70/"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/instagram.png" width="40" height="40"/></a>
+<a href="mailto:mazedulislam4970@gmail.com"><img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/gmail.png" width="40" height="40"/></a>
