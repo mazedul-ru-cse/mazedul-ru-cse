@@ -6,7 +6,7 @@ Hi, I'm M A Mazedul Islam. I'm professional Flutter Developer at SpondonIT, Dhak
 I've been working with programming & mobile app technology since 2018, and during this time I worked with the most diverse types of projects like: <a href="https://github.com/mazedul-ru-cse/Child-Monitoring">Child Monitoring System</a>, <a href="https://github.com/mazedul-ru-cse/Sigma-VPN">VPN/Proxy server</a>, CRM, ERP, E-commerce, <a href="https://github.com/mazedul-ru-cse/flutter_newspaper">Online Newspaper</a>,<a href="https://github.com/mazedul-ru-cse/flutter-todo-app"> ToDos Management</a>, VOIP/SIP dialer and so on. I have 4+ years of professional experience also.
 
 Developed apps by me in SpondoIT:
-- <b>Online Accounting - AoraBooks</b> <a href="[https://play.google.com/store/apps/details?id=com.aorabooks.com](https://play.google.com/store/apps/details?id=com.aorabooks.com)"><b>Play Store</b></a> <a href="[https://play.google.com/store/apps/details?id=com.aorabooks.com](https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918)"><b>App Store</b></a>
+- <b>Online Accounting - AoraBooks</b> <a href="https://play.google.com/store/apps/details?id=com.aorabooks.com"><b>Play Store</b></a> <a href="https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918"><b>App Store</b></a>
 
 
 
