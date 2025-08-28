@@ -28,10 +28,29 @@ I have **4+ years of professional experience** building scalable and user-friend
 - [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aorabooks.com)  
 - [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918)
 
-### InfixLMS – Instructor  
- **InfixLMS Instructor** : Manage courses, students, and lessons on the go.  
+### InfixLMS Admin  
+ **InfixLMS Admin** : Manage courses, students, and lessons on the go.  
 
 - [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infixlms.lmsinstructor)
+
+
+### Online Accounting – AoraBooks  
+ **AoraBooks** : AoraBooks – Smart Accounting, Distribution & Business Management.  
+
+- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aorabooks.com)  
+- [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918)
+
+### AmazCart – E-commerce Store  
+**AmazCart** : A modern, scalable, and user-friendly e-commerce solution.  
+
+- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.amazcart.store)  
+- [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/amazcart/id6739343698)
+
+### InfixEdu – School App  
+**InfixEdu** : Digital school management at your fingertips.  
+
+- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infixedu.school)  
+- [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/infixedu-app/id6739495077)
 
 
 
