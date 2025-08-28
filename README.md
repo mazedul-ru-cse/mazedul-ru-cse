@@ -1,12 +1,40 @@
-# Assalamu Alaikum
-May Peace be upon you
+# 👋 Assalamu Alaikum  
+**May Peace Be Upon You**
 
-Hi, I'm M A Mazedul Islam. I'm professional Flutter Developer at SpondonIT, Dhaka Bangladesh. 
+---
 
-I've been working with programming & mobile app technology since 2018, and during this time I worked with the most diverse types of projects like: <a href="https://github.com/mazedul-ru-cse/Child-Monitoring">Child Monitoring System</a>, <a href="https://github.com/mazedul-ru-cse/Sigma-VPN">VPN/Proxy server</a>, CRM, ERP, E-commerce, <a href="https://github.com/mazedul-ru-cse/flutter_newspaper">Online Newspaper</a>,<a href="https://github.com/mazedul-ru-cse/flutter-todo-app"> ToDos Management</a>, VOIP/SIP dialer and so on. I have 4+ years of professional experience also.
+## 👨‍💻 About Me  
+Hi, I'm **M A Mazedul Islam**, a **Flutter Developer** at **[SpondonIT](https://spondonit.com/)**, Dhaka, Bangladesh.  
 
-Developed apps by me in SpondoIT:
-- <b>Online Accounting - AoraBooks</b> : <a href="https://play.google.com/store/apps/details?id=com.aorabooks.com"><b>Play Store</b></a> or <a href="https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918"><b>App Store</b></a>
+I've been working with **programming & mobile app technology since 2018**, and during this time I’ve worked on a wide variety of projects, including:  
+- 🧒 [Child Monitoring System](https://github.com/mazedul-ru-cse/Child-Monitoring)  
+- 🌐 [VPN/Proxy Server](https://github.com/mazedul-ru-cse/Sigma-VPN)  
+- 📊 CRM & ERP Systems  
+- 🛒 E-commerce Platforms  
+- 📰 [Online Newspaper](https://github.com/mazedul-ru-cse/flutter_newspaper)  
+- ✅ [To-Do Management](https://github.com/mazedul-ru-cse/flutter-todo-app)  
+- 📞 VOIP/SIP Dialer  
+...and much more.  
+
+I have **4+ years of professional experience** building scalable and user-friendly applications.  
+
+---
+
+## 📱 Published Apps (at SpondonIT)
+
+### Online Accounting – AoraBooks  
+<a href="https://play.google.com/store/apps/details?id=com.aorabooks.com">
+  <img src="https://play-lh.googleusercontent.com/Y9JjCqzXnD2WvEhxOa0Z5y9Zk1EiYF4Q1N4L7KPgYxV4P97Vh7aVQv9k5dYO2Vw1rA=s48" width="48" />
+</a>  
+**AoraBooks**: Smart, simple, and secure online accounting solution.  
+
+- [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aorabooks.com)  
+- [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918)
+
+---
+
+✨ *Always passionate about building high-quality apps that make life easier.*  
+
 
 
 
