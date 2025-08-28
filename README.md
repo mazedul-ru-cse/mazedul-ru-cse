@@ -80,14 +80,13 @@ I have **4+ years of professional experience** building scalable and user-friend
 
 ---
 
-## 💻 Development & Tech Tools
-- ![Flutter](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/flutter.png) **Flutter**  
-- ![Dart](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/dart.png) **Dart**  
-- ![REST API](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/rest%20api.png) **REST APIs**  
-- ![Firebase](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/firebase.png) **Firebase**  
-- ![Kotlin](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/kotlin.png) **Kotlin**  
-- ![Java](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/java.png) **Java**  
-- ![SQLite](https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/sql.jpg) **SQLite**
+## Development & Tech Tools 
+- **Flutter** <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/flutter.png" width="20" height="20"/> </kbd>
+- **Dart** <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/dart.png" width="20" height="20"/> </kbd>
+- **Rest APIs** <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/rest%20api.png" width="20" height="20"/> </kbd>
+- **Firebase** <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/firebase.png" width="20" height="20"/> </kbd>
+- **Kotlin** <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/kotlin.png" width="20" height="20"/> </kbd> - Java <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/java.png" width="20" height="20"/> </kbd>
+- **SQLite** <kbd> <img src="https://github.com/mazedul-ru-cse/mazedul-ru-cse/blob/main/Icons/sql.jpg" width="20" height="20"/> </kbd>
 
 
 ---
