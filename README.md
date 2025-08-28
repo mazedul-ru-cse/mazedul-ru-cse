@@ -24,9 +24,9 @@ I have **4+ years of professional experience** building scalable and user-friend
 
 ### Online Accounting – AoraBooks  
 <a href="https://play.google.com/store/apps/details?id=com.aorabooks.com">
-  <img src="https://play-lh.googleusercontent.com/Y9JjCqzXnD2WvEhxOa0Z5y9Zk1EiYF4Q1N4L7KPgYxV4P97Vh7aVQv9k5dYO2Vw1rA=s48" width="48" />
+  <img src="https://play-lh.googleusercontent.com/VSIX8MBxlOXltlpugBQcZKZ0uKVNLehZpmfnny3J0D7Ps3aGMfs6e12egMkQehLYEUS8=w480-h960-rw 2x" width="48" />
 </a>  
-**AoraBooks**: Smart, simple, and secure online accounting solution.  
+AoraBooks: AoraBooks – Smart Accounting, Distribution & Business Management.  
 
 - [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aorabooks.com)  
 - [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918)
