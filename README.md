@@ -23,19 +23,13 @@ I have **4+ years of professional experience** building scalable and user-friend
 ## 📱 Published Apps (at SpondonIT)
 
 ### Online Accounting – AoraBooks  
-<a href="https://play.google.com/store/apps/details?id=com.aorabooks.com">
-  <img src="https://play-lh.googleusercontent.com/VSIX8MBxlOXltlpugBQcZKZ0uKVNLehZpmfnny3J0D7Ps3aGMfs6e12egMkQehLYEUS8=w480-h960-rw 2x" width="48" />
-</a>  
-- AoraBooks : AoraBooks – Smart Accounting, Distribution & Business Management.  
+ **AoraBooks** : AoraBooks – Smart Accounting, Distribution & Business Management.  
 
 - [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.aorabooks.com)  
 - [![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/online-accounting-aorabooks/id6670519918)
 
 ### InfixLMS – Instructor  
-<a href="https://play.google.com/store/apps/details?id=com.infixlms.lmsinstructor">
-  <img src="https://play-lh.googleusercontent.com/ohEk9hfZovDcyGQzvBrB2D1qrvOgdcUpy1FNaM-P0tucc0NkSC8QWcmTVbOmdLX8gQ=s48" width="48" />
-</a>  
-- InfixLMS Instructor : Manage courses, students, and lessons on the go.  
+ **InfixLMS Instructor** : Manage courses, students, and lessons on the go.  
 
 - [![Get it on Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.infixlms.lmsinstructor)
 
